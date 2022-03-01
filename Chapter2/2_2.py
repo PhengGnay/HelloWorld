@@ -43,6 +43,8 @@
 # var5 = var1+var2 # 3 Int
 # var6 = var3+var4 # 34 # String
 
+from typing import final
+
 str1 = "Python"
 length = len(str1) #5 Int
 str2 = str1[:-1] #Python String
